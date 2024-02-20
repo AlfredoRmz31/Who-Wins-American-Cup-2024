@@ -1,1 +1,1 @@
-# Who whins-American Cup-2024
+# Who wins-American Cup-2024
