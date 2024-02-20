@@ -1,0 +1,33 @@
+home,score,away,year
+Argentina,Partido 1,Canadá,2024
+Perú,Partido 2,Chile,2024
+Perú,Partido 10,Canadá,2024
+Chile,Partido 9,Argentina,2024
+Argentina,Partido 17,Perú,2024
+Canadá,Partido 18,Chile,2024
+Ecuador,Partido 4,Venezuela,2024
+México,Partido 3,Jamaica,2024
+Ecuador,Partido 12,Jamaica,2024
+Venezuela,Partido 11,México,2024
+México,Partido 19,Ecuador,2024
+Jamaica,Partido 20,Venezuela,2024
+Estados Unidos,Partido 5,Bolivia,2024
+Uruguay,Partido 6,Panamá,2024
+Panamá,Partido 13,Estados Unidos,2024
+Uruguay,Partido 14,Bolivia,2024
+Estados Unidos,Partido 21,Uruguay,2024
+Bolivia,Partido 22,Panamá,2024
+Colombia,Partido 8,Paraguay,2024
+Brasil,Partido 7,Costa Rica,2024
+Colombia,Partido 16,Costa Rica,2024
+Paraguay,Partido 15,Brasil,2024
+Brasil,Partido 23,Colombia,2024
+Costa Rica,Partido 24,Paraguay,2024
+1A,Partido 25,2B,2024
+1B,Partido 26,2A,2024
+1D,Partido 28,2C,2024
+1C,Partido 27,2D,2024
+Ganador Partido 25,Partido 29,Ganador Partido 26,2024
+Ganador Partido 27,Partido 30,Ganador Partido 28,2024
+Perdedor Partido 29,Partido 31,Perdedor Partido 30,2024
+Ganador Partido 29,Partido 32,Ganador Partido 30,2024
