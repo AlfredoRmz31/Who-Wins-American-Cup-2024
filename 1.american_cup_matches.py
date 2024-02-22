@@ -1,5 +1,3 @@
-#Partial code
-
 import pandas as pd
 from string import ascii_uppercase as alfabeto
 import pickle
