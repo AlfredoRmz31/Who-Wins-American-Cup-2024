@@ -18,3 +18,9 @@ for letra, i in zip(alfabeto, range(6,28,7)):
     df = df1[i]
     df.pop("Dif.")
     dict_tablas[f'Grupo {letra}'] = df 
+
+dict_tablas["Grupo A"][3:4]= ([['Canada', 0, 0, 0, 0, 0, 0, 0]])
+dict_tablas["Grupo D"][3:4]= ([['Costa Rica', 0, 0, 0, 0, 0, 0, 0]])
+
+with open("dict_table","wb") as output:
+    pickle.dump(dict_tablas,output)
